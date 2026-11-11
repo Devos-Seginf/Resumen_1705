@@ -17,23 +17,33 @@ Marco Europeo de Cualificaciones (MEC / EQF)
 2008, revisado en 2017
 Establecer un sistema de referencia común de ocho niveles que permita comparar y reconocer las cualificaciones de los distintos países miembros.
 El Catálogo Nacional de Estándares de Competencias Profesionales organiza las cualificaciones en tres niveles (1, 2 y 3) que se corresponden con los niveles 3, 4 y 5 del MEC, facilitando el reconocimiento internacional de las titulaciones españolas de FP.
+
+
 Proceso de Copenhague
 2002 (Declaración de Copenhague), con revisiones periódicas hasta el Comunicado de Osnabrück (2020)
 Reforzar la cooperación europea en materia de FP para mejorar su calidad, atractivo y movilidad transnacional.
 Ha impulsado en España reformas sucesivas del sistema de FP orientadas a mejorar su reconocimiento social, su permeabilidad con el sistema universitario y su vinculación con el mercado laboral.
 ECVET (Sistema Europeo de Créditos para la Educación y Formación Profesionales)
+
+
 2009
 Facilitar la transferencia, el reconocimiento y la acumulación de resultados de aprendizaje obtenidos en distintos contextos y países, mediante un sistema de créditos específico para la FP.
 Ha servido de referencia para articular los mecanismos de reconocimiento y acreditación de competencias en el sistema español, especialmente en los procesos de movilidad Erasmus+ del alumnado de FP.
 EQAVET (Marco Europeo de Referencia para el Aseguramiento de la Calidad en la EFP)
+
+
 2009
 Promover la mejora continua de la calidad de los sistemas de FP mediante indicadores comunes y mecanismos de autoevaluación y evaluación externa.
 Inspira los procedimientos de garantía de calidad que deben aplicar los centros del Sistema de Formación Profesional en España, en línea con los principios de mejora continua recogidos en la Ley Orgánica 3/2022.
 Recomendación del Consejo de la UE sobre la FP
+
+
 2020
 Modernizar los sistemas de FP europeos para hacerlos más flexibles, inclusivos y adaptados a las transiciones ecológica y digital, con foco en la empleabilidad y el aprendizaje a lo largo de la vida.
 Ha influido directamente en la reforma del sistema español de FP articulada por la Ley Orgánica 3/2022 y el Real Decreto 659/2023, que introducen la estructura de grados, la formación dual y los nuevos mecanismos de acreditación de competencias.
 Erasmus+
+
+
 2014 (programa actual 2021-2027)
 Financiar y promover la movilidad educativa y formativa transnacional de estudiantes, docentes y profesionales, así como la cooperación institucional entre centros europeos.
 Permite al alumnado de FP en España realizar estancias formativas en empresas de otros países de la UE, con reconocimiento de los aprendizajes adquiridos, y financia proyectos de innovación educativa en los centros de FP.
